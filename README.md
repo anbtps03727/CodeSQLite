@@ -1,0 +1,2 @@
+# CodeSQLite
+SQLite error
